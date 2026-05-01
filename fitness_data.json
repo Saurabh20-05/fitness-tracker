@@ -1,0 +1,47 @@
+{
+    "users": {
+        "Rahul": {
+            "age": 20,
+            "weight": 68.0,
+            "height": 172.0,
+            "bmi": 22.99,
+            "bmi_category": "Normal",
+            "registered": "2025-01-10"
+        }
+    },
+    "workouts": [
+        {
+            "user": "Rahul",
+            "date": "2025-01-10",
+            "time": "07:30",
+            "type": "Running",
+            "duration_min": 30,
+            "calories": 280,
+            "notes": "Morning jog in park"
+        },
+        {
+            "user": "Rahul",
+            "date": "2025-01-12",
+            "time": "18:00",
+            "type": "Gym",
+            "duration_min": 45,
+            "calories": 350,
+            "notes": "Chest and arms day"
+        },
+        {
+            "user": "Rahul",
+            "date": "2025-01-14",
+            "time": "07:00",
+            "type": "Cycling",
+            "duration_min": 40,
+            "calories": 320,
+            "notes": "Outdoor cycling"
+        }
+    ],
+    "goals": {
+        "Rahul": {
+            "weekly_workouts": 5,
+            "weekly_calories": 2000
+        }
+    }
+}
